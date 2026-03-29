@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-    "$basetexture" "models/custom/case"
-    "$surfaceprop" "metal"
-    "$selfillum" 1
-    "$color" "{255 200 100}"
-}
