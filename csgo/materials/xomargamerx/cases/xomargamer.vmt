@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "xomargamerx/cases/xomargamerx1"
+	"$nocull" 1
+}
