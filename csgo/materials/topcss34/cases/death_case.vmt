@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "topcss34/cases/death_case1"
+	"$nocull" 1
+}
